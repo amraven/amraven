@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @amraven
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...[README (1).md](https://github.com/amraven/amraven/files/14638441/README.1.md)
-- 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedmsaber.ahmedmsaber" />
 
 <h1 align="center">
