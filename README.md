@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Machine learning,Deep Learning**
 
-💬 Ask me about **Python, Machine Learning or anything [here](https://github.com/ahmedmsaber/ahmedmsaber/issues)**
+💬 Ask me about **Python, Machine Learning or anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
